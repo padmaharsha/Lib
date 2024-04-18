@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "418775870803",
+    "firebase_url": "https://libnotif-b6091-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "libnotif-b6091",
+    "storage_bucket": "libnotif-b6091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418775870803:android:e09b63e48fcf0d51aec5a6",
+        "android_client_info": {
+          "package_name": "com.example.libnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPL9FoMBuuCBaO_0Uc22J2nfN7aEU7h60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

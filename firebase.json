@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "libnotif-b6091",
+          "appId": "1:418775870803:android:e09b63e48fcf0d51aec5a6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "libnotif-b6091",
+          "configurations": {
+            "android": "1:418775870803:android:e09b63e48fcf0d51aec5a6",
+            "ios": "1:418775870803:ios:8df7e21d42de42a9aec5a6",
+            "macos": "1:418775870803:ios:8df7e21d42de42a9aec5a6",
+            "web": "1:418775870803:web:e1eff68dcd3424ccaec5a6",
+            "windows": "1:418775870803:web:f66a078e0c12106baec5a6"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
